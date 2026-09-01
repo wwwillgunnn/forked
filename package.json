@@ -1,5 +1,5 @@
 {
-  "name": "with-svelte",
+  "name": "forked",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -14,7 +14,7 @@
     "prettier-plugin-svelte": "catalog:sveltejs",
     "turbo": "^2.10.12"
   },
-  "packageManager": "pnpm@11.22.0",
+  "packageManager": "pnpm@11.25.0",
   "engines": {
     "node": ">=24.19.0"
   }
